@@ -4,25 +4,34 @@
 
 # Blogs
 
-[James Katz](https://free2z.cash/James_Katz/)
+- [ZecHub](https://zechub.substack.com/)
 
-[Thumbs' Update](https://thumbsup.substack.com)
+- [Zcash Spanish](https://zcashesp.com/)
 
-[roomatemusing](https://free2z.cash/roommatemusing)
+- [Zcash Arabia](https://academy.zcasharabia.xyz/)
 
-[blog.nerdbank.net](https://blog.nerdbank.net/)
+- [Zooko Wilcox](https://medium.com/@zooko)
 
-[Thor Likes](https://www.thorlikes.com/)
+- [Str4d](https://words.str4d.xyz/)
 
-[ZecMec Medium](https://zecmec21.medium.com/)
+- [Sean Bowe](https://seanbowe.com/blog/tachyon-scaling-zcash-oblivious-synchronization/)
 
-[Ian Sagstetter Substack](https://iansagstetter.substack.com/)
+- [Pacu](https://free2z.cash/pacu) 
 
-[NAOMI BROCKWELL](https://naomibrockwell.com/highprofileinterviews)
+- [James Katz](https://free2z.cash/James_Katz/)
 
-[Sqribbles](https://free2z.cash/sqribbles)
+- [roomatemusing](https://free2z.cash/roommatemusing)
 
-[Str4d](https://words.str4d.xyz/)
+- [blog.nerdbank.net](https://blog.nerdbank.net/)
+
+- [Thor Likes](https://www.thorlikes.com/)
+
+- [Ian Sagstetter Substack](https://iansagstetter.substack.com/)
+
+- [NAOMI BROCKWELL](https://naomibrockwell.com/highprofileinterviews)
+
+- [Sqribbles](https://free2z.cash/sqribbles)
+
 
 Here are some community submitted blogs. If you would like ZecHub to feature one of your blog posts, please create a PR.
 
