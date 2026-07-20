@@ -5,7 +5,7 @@
 # <img src="https://i.ibb.co/tYvwnCW/image-2024-02-03-170636194.png" alt="Texto Alternativo" width="50"/>    ZKAV Club
 [Site](https://zkav.club) - [GitHub](https://github.com/copernicus-mogley/zkav.club) - [X/Twitter](https://x.com/ZkAv_Club) - [YouTube](https://www.youtube.com/@ZkAv_Club)
 
-*Apoiado pela Zcash Foundation, este ambicioso projeto comunitário de base busca ter impacto global por meio de ações locais e regionais. Convida uma comunidade de criadores a aprender e trabalhar em conjunto para elevar e disseminar notícias e histórias que inspiram, educam e compartilham a promessa do Zcash e da privacidade financeira*.
+*Apoiado pela Zcash Community Grants, este ambicioso projeto comunitário de base busca ter impacto global por meio de ações locais e regionais. Convida uma comunidade de criadores a aprender e trabalhar em conjunto para elevar e disseminar notícias e histórias que inspiram, educam e compartilham a promessa do Zcash e da privacidade financeira*.
 
 ## Declaração de Missão
 Somos um coletivo global de criadores de conteúdo que se importam com privacidade, Zcash e construção de comunidade. 
